@@ -1,0 +1,19 @@
+div.paint div {
+    padding: 10px;
+    margin: 10px 0;
+}
+div.paint-container .item {
+    background-color: #F5F5F5;
+    padding: 10px;
+    margin: 10px;
+}
+div.paint-container .img-container {
+    background-color: white;
+    margin-bottom: 10px;
+}
+div.paint-container .img-container img {
+    width: 100%;
+}
+img.brd {
+	border: 1px solid #D5D5D5;
+}
